@@ -34,6 +34,11 @@
         <h3>Sate Ayam</h3>
         <p>Rp 30.000</p>
       </div>
+    </div class="item">
+       <img src="https://via.placeholder.com/150" alt="Ikan Bakar">
+       <h3>Ikan Bakar</h3>
+       <p>Rp 40.000</p>
+      </div>
     </div>
   </section>
 
@@ -46,6 +51,7 @@
         <option disabled selected>Pilih Menu</option>
         <option>Nasi Goreng</option>
         <option>Sate Ayam</option>
+        <option>Ikan Bakar</option>
       </select>
       <button type="submit">Kirim</button>
     </form>
